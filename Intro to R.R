@@ -1,4 +1,4 @@
-# R script to accompany Intro to R
+# R script to accopany Intro to R
 #DanealJSenderovich
 ######################################################
 
